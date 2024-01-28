@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Person20020
-- 👀 I’m interested in 3d printing, design and coding.
-- 🌱 I’m currently learning coding from Harvard EdX.
+- 👀 I’m interested in 3d printing, electronics, and coding.
+- 🌱 I’m currently learning CS50.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
